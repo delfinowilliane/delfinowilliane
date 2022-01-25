@@ -3,9 +3,10 @@
   
   - 🔭 I’m currently working on Front End
   
+  - ⚡ My Comunity: I am studying on Dev Club with the Master Rodolfo Mori
+    
   - 🌱 I’m currently learning React, Node JS, GitHub, and other stacks
   
-  - ⚡ My Comunity: I am studying on Dev Club with the Master Rodolfo Mori
 </div>
   
 <div>
