@@ -6,9 +6,6 @@
     
   - 🌱 I’m currently learning CSS, Javascript, React, Node JS, GitHub and more.
   
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
-
 <div>
   <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianepp&show_icons=true&theme=radical" />
@@ -16,6 +13,9 @@
   </p>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
 
 ##
 
