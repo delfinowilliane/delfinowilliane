@@ -4,7 +4,7 @@
   
   - ⚡ My Comunity: I am studying on Dev Club with the Master Rodolfo Mori
     
-  - 🌱 I’m currently learning CSS, Javascript, React, Node JS, GitHub and more.
+  - 🌱 I’m currently learning Javascript, GitHub, ReactJs, NodeJs and more.
   
 <div>
   <p>
