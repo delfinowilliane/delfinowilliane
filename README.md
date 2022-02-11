@@ -2,9 +2,9 @@
   
   - 🔭 I’m currently working on Front End
   
-  - ⚡ My Comunity: I am studying on Dev Club with the Master Rodolfo Mori
+  - ⚡ My Comunity: I am studying on Dev Club with Rodolfo Mori
     
-  - 🌱 I’m currently learning Javascript, GitHub, ReactJs, NodeJs and more.
+  - 🌱 I’m currently learning Javascript, Git and GitHub, ReactJs and other tecnologies.
   
 <div>
   <p>
@@ -14,7 +14,7 @@
 
 </div>
 
-##
+Languages and Tools:
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/ height=30 width=40>
@@ -23,7 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" / height=30 width=40>
 </div>
 
-##
+Connect with me:
 
 <div>
   <a href=https://www.instagram.com/williane.pinheiro/ target=_blank><img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white target=_blank></a>
