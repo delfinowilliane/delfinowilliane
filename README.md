@@ -14,6 +14,8 @@
 
 </div>
 
+##
+
 Languages and Tools:
 
 <div>
@@ -23,7 +25,9 @@ Languages and Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" / height=30 width=40>
 </div>
 
-Connect with me:
+##
+
+### Connect with me:
 
 <div>
   <a href=https://www.instagram.com/williane.pinheiro/ target=_blank><img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white target=_blank></a>
