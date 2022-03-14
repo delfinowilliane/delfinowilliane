@@ -2,10 +2,10 @@
   
   - 🔭 I’m currently working on Front End
   
-  - ⚡ My Comunity: I am studying on Dev Club with Rodolfo Mori
+  - ⚡  I am studying on Dev Club with Rodolfo Mori
     
-  - 🌱 I’m currently learning Javascript, ReactJs and other tecnologies.
-  
+  - 🌱 I’m currently learning Javascript, ReactJs and other tecnologies
+<br>
 <div>
 
 <a href="https://github.com/willianepp/github-readme-stats">
