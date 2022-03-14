@@ -7,14 +7,14 @@
   - 🌱 I’m currently learning Javascript, ReactJs and other tecnologies.
   
 <div>
-  <p>
-  
-  ![Willianepp's GitHub stats](https://github-readme-stats.vercel.app/api?username=willianepp&show_icons=true&theme=radical)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willianepp&layout=compact&theme=radical)](https://github.com/willianepp/github-readme-stats)
-  
-  </p>
 
+<a href="https://github.com/willianepp/github-readme-stats">
+<img align="center" height="195em" src="https://github-readme-stats.vercel.app/api?username=willianepp&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/willianepp/convoychat">
+<img align="center" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianepp&layout=compact&theme=radical" />
+</a>
+  
 </div>
 
 ##
