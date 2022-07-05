@@ -9,10 +9,10 @@
 <div>
 
 <a href="https://github.com/willianepp/github-readme-stats">
-<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=willianepp&show_icons=true&theme=radical" />
+<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=willianep&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/willianepp/convoychat">
-<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianepp&layout=compact&theme=radical" />
+<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianep&layout=compact&theme=radical" />
 </a>
   
 </div>
