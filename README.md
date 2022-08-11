@@ -6,7 +6,7 @@
     
   - 🌱 I’m currently learning Javascript, ReactJs, Java and Integrations with Mulesoft
 <br>
-<div>
+<div align="center">
 
 <a href="https://github.com/willianepp/github-readme-stats">
 <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=willianepp&show_icons=true&theme=radical" />
