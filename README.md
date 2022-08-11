@@ -1,10 +1,10 @@
 ### Hi, I am Williane Delfino Pinheiro 👋
   
-  - 🔭 I’m currently working on Front End
+  - 🔭 I’m currently working on Front-end (with Javascript) and as Intern Back-end at Compass Uol (with Java/Mulesoft)
   
-  - ⚡  I am studying on Dev Club with Rodolfo Mori
+  - ⚡  I am studying on Dev Club with Rodolfo Mori + graduation on System Development at UNAMA
     
-  - 🌱 I’m currently learning Javascript, ReactJs and other tecnologies
+  - 🌱 I’m currently learning Javascript, ReactJs, Java and Integrations with Mulesoft
 <br>
 <div>
 
