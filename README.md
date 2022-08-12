@@ -37,10 +37,3 @@ Languages and Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" / height=30 width=40>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" / height=30 width=40>
 </div>
-
-
-   
-<div>
-  ![Snake animation]<a href=https://github.com/willianepp/willianepp/blob/output/github-contribution-grid-snake.svg></a>
-</div>
-
