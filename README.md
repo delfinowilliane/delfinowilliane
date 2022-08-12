@@ -41,6 +41,6 @@ Languages and Tools:
 
    
 <div>
-  ![Snake animation](https://github.com/willianepp/willianepp/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation]<a href=https://github.com/willianepp/willianepp/blob/output/github-contribution-grid-snake.svg></a>
 </div>
 
