@@ -1,7 +1,7 @@
 ### Hi, I am Williane Delfino Pinheiro 👋
   
-  - 🔭 I’m currently working as Intern Back-end at Compass Uol (with Java)
-  
+  - 🔭 I’m currently working as Intern
+
   - ⚡  I am studying on Dev Club with Rodolfo Mori + graduation on System Development at UNAMA
     
   - 🌱 I’m currently learning Javascript and Java
