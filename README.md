@@ -1,10 +1,10 @@
 ### Hi, I am Williane Delfino Pinheiro 👋
   
-  - 🔭 I’m currently working as Intern
+  - 🔭 I’m currently working as ECM and BPM Solutions Architect
 
-  - ⚡  I am studying on Dev Club with Rodolfo Mori + graduation on System Development at UNAMA
+  - ⚡  I am studying Analysis and System Development at UNAMA
     
-  - 🌱 I’m currently learning Javascript and Java
+  - 🌱 I’m currently learning Javascript, Java, Alfresco, Camunda, Docker and Kubernetes
 <br>
 <div align="center">
 
