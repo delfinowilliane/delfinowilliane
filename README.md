@@ -1,21 +1,14 @@
 ### Hi, I am Williane Delfino Pinheiro 👋
   
-  - 🔭 I’m currently working as ECM and BPM Solutions Architect
+  - 🔭 I’m currently working as ECM and BPM Solutions Architect at Ambiente Livre
 
-  - ⚡  I am studying Analysis and System Development at UNAMA
+  - ⚡ Studying Analysis and System Development at UNAMA
     
-  - 🌱 I’m currently learning Javascript, Java, Alfresco, Camunda, Docker and Kubernetes
-<br>
-<div align="center">
-
-<a href="https://github.com/willianepp/github-readme-stats">
-<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=willianepp&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/willianepp/convoychat">
-<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianepp&layout=compact&theme=radical" />
-</a>
+  - 🌱 Learning ECM and BPM technologies (Alfresco, Camunda, Zeebe)
   
-</div>
+  - 💻 Practicing Javascript and Java
+
+<br>
 
 ##
 
