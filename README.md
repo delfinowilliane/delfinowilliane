@@ -6,7 +6,7 @@
     
   - _🌱 Learning ECM and BPM technologies (Alfresco, Camunda, Zeebe)_
   
-  - _💻 Practicing Javascript and Java_
+  - _💻 Practicing Javascript, Java and C#_
 
 ##
 
