@@ -1,12 +1,12 @@
 ### Hi, I am Williane Delfino Pinheiro 👋
   
-  - _🔭 I’m currently working as ECM and BPM Solutions Architect at Ambiente Livre_
+  - _🔭 I’m currently working as ECM, BPM and CMS Developer at Ambiente Livre_
 
-  - _⚡ Studying Analysis and System Development at UNAMA_
+  - _⚡ Graduated in Analysis and System Development from UNAMA_
     
-  - _🌱 Learning ECM and BPM technologies (Alfresco, Camunda, Zeebe)_
+  - _🌱 Learning ECM, BPM and CMS technologies (Alfresco, Camunda, Liferay)_
   
-  - _💻 Practicing Javascript, Java and C#_
+  - _💻 Practicing Java, Javascript and C#_
 
 ##
 
