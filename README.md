@@ -6,7 +6,7 @@
     
   - _🌱 Learning ECM, BPM and CMS technologies (Alfresco, Camunda, Liferay)_
   
-  - _💻 Practicing Java, Javascript and C#_
+  - _💻 Practicing Java
 
 ##
 
