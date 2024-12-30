@@ -1,12 +1,12 @@
 ### Hi, I am Williane Delfino Pinheiro 👋
   
-  - _🔭 I’m currently working as ECM, BPM and CMS Developer at Ambiente Livre_
+  - _🔭 I’m currently working as a Fullstack Software Developer at Wiley_
 
   - _⚡ Graduated in Analysis and System Development from UNAMA_
     
-  - _🌱 Learning ECM, BPM and CMS technologies (Alfresco, Camunda, Liferay)_
+  - _🌱 Learning React_
   
-  - _💻 Practicing Java
+  - _💻 Practicing Java_
 
 ##
 
